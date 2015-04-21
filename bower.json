@@ -1,0 +1,17 @@
+{
+  "name": "superagent",
+  "main": "superagent.js",
+  "version": "1.2.0",
+  "homepage": "https://github.com/visionmedia/superagent",
+  "authors": [
+    "TJ Holowaychuk <tj@vision-media.ca>"
+  ],
+  "description": "elegant & feature rich browser / node HTTP with a fluent API",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
